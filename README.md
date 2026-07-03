@@ -47,12 +47,8 @@ A full-stack bookstore web application where:
 |--------|------------|
 | Frontend | React, React Router, Bootstrap 5, Axios |
 | Backend | Node.js, Express 5 |
-| Database | PostgreSQL |
-| ORM | Drizzle ORM |
+| Database | MongoDB (Mongoose) |
 | Authentication | JWT, bcryptjs |
-| File Upload | Multer |
-| Language | TypeScript |
-| Build Tool | Vite |
 
 ---
 
