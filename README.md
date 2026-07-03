@@ -49,7 +49,7 @@ A full-stack bookstore web application where:
 | Backend | Node.js, Express 5 |
 | Database | MongoDB (Mongoose) |
 | Authentication | JWT, bcryptjs |
-
+| Languages | Java Script, Html, CSS |
 ---
 
 # 📂 Project Structure
