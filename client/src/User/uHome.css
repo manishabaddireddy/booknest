@@ -1,0 +1,22 @@
+.uhome-hero {
+  background: linear-gradient(135deg, #1a1a2e, #16213e);
+  color: white;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.book-card {
+  transition: transform 0.2s;
+  cursor: pointer;
+}
+
+.book-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+
+.book-img {
+  height: 200px;
+  object-fit: cover;
+  width: 100%;
+}
